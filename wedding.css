@@ -3,16 +3,25 @@
 	padding-top: 25%;
 }
 
-html,
-body,
-.view {
-    height: 100%;
+#tahoe {
+    background: url('tahoe.jpg') center center no-repeat;
+    background-size: contain;
+    height: 0;
+    width: 100%;
+    padding-top: 66.77%;
+    color: white;
+    display: flex;
+    align-items: center;
 }
 
-.view {
-    background: url(tahoe.jpg)no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+#tahoe-caption {
+	font-size: 1.4rem;
+	font-weight: 200;
+	margin: 0 auto;
+	text-align: center;
 }
+
+#tahoe-caption h1 {
+	color: white;
+}
+
