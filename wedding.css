@@ -4,7 +4,8 @@
 }
 
 #tahoe {
-    background: url('tahoe.jpg') center center no-repeat;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.75) 0%,rgba(255, 255, 255, 0) 30%,rgba(255, 255, 255, 0) 100%),
+    url('tahoefinal.jpg') center center no-repeat;
     background-size: cover;
     height: 100vh;
     width: 100%;
@@ -24,4 +25,3 @@
 #tahoe-caption h1 {
 	color: white;
 }
-
