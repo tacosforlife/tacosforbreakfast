@@ -1,0 +1,15 @@
+.container {
+  background: #dee2e6;
+}
+        
+.flex-column {
+  max-width: 275px;
+}
+
+img {
+  padding: 5px;
+}
+
+body {
+  padding-top: 88px;
+}
